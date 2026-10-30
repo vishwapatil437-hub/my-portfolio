@@ -38,4 +38,5 @@ A modern, responsive portfolio website built to showcase my technical skills, pr
 
 1. Clone the repository:
    ```bash
-   
+   git clone https://github.com/vishwapatil/my-portfolio-.git
+cd my-portfolio-
